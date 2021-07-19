@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">application with intent</string>
+    <string name="enter_your_username">enter your username</string>
+    <string name="logo">logo</string>
+    <string name="new_user">new user</string>
+    <string name="sign_in">sign in</string>
+</resources>

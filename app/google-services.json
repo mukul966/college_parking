@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "126098018840",
+    "project_id": "ymca-parking",
+    "storage_bucket": "ymca-parking.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:126098018840:android:3dd729f54fa34b7ecfe96d",
+        "android_client_info": {
+          "package_name": "com.example.applicationwithintent"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "126098018840-831k300tv6hnq2df891eqa1lj493b9n3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAovscCsWcXNB1j5MS-XJ2JvzGloDcJYxk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "126098018840-831k300tv6hnq2df891eqa1lj493b9n3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
